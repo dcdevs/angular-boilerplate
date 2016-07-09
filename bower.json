@@ -1,0 +1,20 @@
+{
+  "name": "angular-boilerplate",
+  "description": "Angular Boilerplate with browserSync",
+  "main": "app.js",
+  "authors": ["DcDevs", "Abrante Manuel", "Salinas Cindy", "Salinas Keily" ],
+  "license": "ISC",
+  "homepage": "https://github.com/dcdevs/angular-boilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.7"
+  }
+}

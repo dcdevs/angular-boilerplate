@@ -1,0 +1,31 @@
+{
+  "name": "angular-boilerplate",
+  "version": "1.0.0",
+  "description": "Angular Boilerplate with browserSync",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcdevs/angular-boilerplate.git"
+  },
+  "author": "DcDevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcdevs/angular-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dcdevs/angular-boilerplate#readme",
+  "dependencies": {
+    "autoprefixer-stylus": "0.9.4",
+    "bower": "1.7.9",
+    "browser-sync": "^2.13.0",
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-concat": "2.6.0",
+    "gulp-minify-css": "1.2.4",
+    "gulp-rename": "1.2.2",
+    "gulp-stylus": "2.5.0",
+    "gulp-uglify": "1.5.4"
+  }
+}
